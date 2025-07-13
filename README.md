@@ -18,7 +18,7 @@ A responsive and interactive Rock-Paper-Scissors game built using HTML, CSS, and
 👉 [Click here to play](https://yashsarode31.github.io/rock-paper-scissors/)
 
 ## 📷 Preview
-(./screenshot.png)
+![Preview](./screenshot.png)
 
 ## ✨ What I Learned
 - Event handling with JavaScript
